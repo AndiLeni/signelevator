@@ -1,8 +1,11 @@
 # Sign Elevator
 
 This mod provides sign based elevators for Minecraft.
-The mod needs to run on a fabric server.
-An installation on the client is not necessary. 
+The mod works fine in singleplayer and multiplayer. 
+To make it work in multiplayer, the mod must be installed serverside.
+An installation on the client is only necessary for singleplayer mode.
+
+This mod was written to allow players with a vanilla client on a fabric server to use lifts without having to install a mod.
 
 ## Download
 
